@@ -293,5 +293,51 @@
 			<string>0xfffffff006463e10</string>
 		</array>
 	</dict>
+		<dict>
+		<key>hw</key>
+		<array>
+			<string>iPad6,3</string>
+			<string>iPad6,4</string>
+		</array>
+		<key>ios</key>
+		<array>
+			<string>10.2</string>
+		</array>
+		<key>nports</key>
+		<integer>40000</integer>
+		<key>offsets</key>
+		<array>
+			<string>0xfffffff006f7e3d0</string>
+			<string>0xfffffff00743755c</string>
+			<string>0xfffffff00744df5c</string>
+			<string>0xfffffff007459378</string>
+			<string>0xfffffff0075ac438</string>
+			<string>0xfffffff007538a98</string>
+			<string>0xfffffff00628be10</string>
+		</array>
+	</dict>
+	<dict>
+		<key>hw</key>
+		<array>
+			<string>iPad6,7</string>
+			<string>iPad6,8</string>
+		</array>
+		<key>ios</key>
+		<array>
+			<string>10.2</string>
+		</array>
+		<key>nports</key>
+		<integer>40000</integer>
+		<key>offsets</key>
+		<array>
+			<string>0xfffffff006f8d750</string>
+			<string>0xfffffff00743755c</string>
+			<string>0xfffffff00744df5c</string>
+			<string>0xfffffff007459378</string>
+			<string>0xfffffff0075ac438</string>
+			<string>0xfffffff007538a98</string>
+			<string>0xfffffff0062bfe10</string>
+		</array>
+	</dict>
 </array>
 </plist>
