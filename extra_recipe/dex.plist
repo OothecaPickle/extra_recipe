@@ -146,7 +146,7 @@
 		<integer>40000</integer>
 		<key>offsets</key>
 		<array>
-			<string>0xfffffff006f9b950</string> <!-- Samsung: 0xfffffff006f9dc90 -->
+			<string>0xfffffff006f9dc90</string>
 			<string>0xfffffff00743755c</string>
 			<string>0xfffffff00744df5c</string>
 			<string>0xfffffff007459378</string>
@@ -337,6 +337,29 @@
 			<string>0xfffffff0075ac438</string>
 			<string>0xfffffff007538a98</string>
 			<string>0xfffffff0062bfe10</string>
+		</array>
+	</dict>
+	<dict>
+		<key>hw</key>
+		<array>
+			<string>iPhone8,1</string>
+			<string>iPhone8,2</string>
+		</array>
+		<key>ios</key>
+		<array>
+			<string>10.1.1</string>
+		</array>
+		<key>nports</key>
+		<integer>40000</integer>
+		<key>offsets</key>
+		<array>
+			<string>0xfffffff006f9e1f8</string>
+			<string>0xfffffff0074331ec</string>
+			<string>0xfffffff007449b04</string>
+			<string>0xfffffff007454e6c</string>
+			<string>0xfffffff0075a8148</string>
+			<string>0xfffffff007534898</string>
+			<string>0xfffffff0063d3e10</string>
 		</array>
 	</dict>
 </array>
