@@ -18,7 +18,7 @@ If it says "failed, reboot" you should really reboot.  Re-trying the same app wi
 | iPhone 5S | iOS 10.0.2, 10.1.1 & 10.2 |
 | iPod Touch 6th Gen. | iOS 10.2 |
 | iPad Pro 9.7-inch | iOS 10.2 |
-| iPad Pro 12.9-inch | iOS 10.2 |
+| iPad Pro 12.9-inch | iOS 10.1.1 & 10.2 |
 
 ##### Credits:
 
