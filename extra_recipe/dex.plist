@@ -385,5 +385,28 @@
 			<string>0xfffffff0063dbe10</string>
 		</array>
 	</dict>
+	<dict>
+		<key>hw</key>
+		<array>
+			<string>iPad6,7</string>
+			<string>iPad6,8</string>
+		</array>
+		<key>ios</key>
+		<array>
+			<string>10.1.1</string>
+		</array>
+		<key>nports</key>
+		<integer>40000</integer>
+		<key>offsets</key>
+		<array>
+			<string>0xfffffff006f8dc38</string>
+			<string>0xfffffff0074331ec</string>
+			<string>0xfffffff007449b04</string>
+			<string>0xfffffff007454e6c</string>
+			<string>0xfffffff0075a8148</string>
+			<string>0xfffffff007534898</string>
+			<string>0xfffffff0062c7e10</string>
+		</array>
+	</dict>
 </array>
 </plist>
